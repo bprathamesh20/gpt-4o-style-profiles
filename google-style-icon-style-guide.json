@@ -1,0 +1,52 @@
+{
+    "icon-kit": {
+      "style": {
+        "complexity": "minimal",
+        "outlineStyle": "filled shapes with no strokes or outlines",
+        "cornerRadius": "moderate rounding (~15-25% of icon size), with uniform soft corners",
+        "lineWeight": "none (icons rely on solid shapes instead of strokes)",
+        "strokeCap": "not applicable",
+        "strokeJoin": "not applicable",
+        "fillStyle": {
+          "primary": "solid color fills using distinct color blocking",
+          "accent": "hard-edged shadows or highlights used as geometric overlays",
+          "shading": "flat color overlays with occasional use of transparency or diagonal shading"
+        },
+        "gradients": {
+          "usage": "very limited or none",
+          "style": "if used, consists of large-angle linear gradients with low contrast"
+        },
+        "dropShadow": {
+          "usage": "not used within the icon artwork; may be applied to the entire icon as UI treatment",
+          "style": "UI shadow for icon lift (subtle, blurred, external)"
+        },
+        "background": {
+          "shape": "rounded square",
+          "padding": "medium (~10-20% from edge)",
+          "fill": "solid white or light neutral background"
+        }
+      },
+      "colorPalette": {
+        "base": "vivid, high-saturation primary and secondary colors (red, green, blue, yellow)",
+        "complementary": "occasional use of grays or neutral tones for contrast or structure",
+        "accent": "white used frequently for negative space or icon balance"
+      },
+      "iconStructure": {
+        "alignment": "center-aligned, with balanced geometric composition",
+        "proportions": "icon graphics occupy 60–90% of the background square",
+        "grid": "aligned to a conceptual 12x12 or 16x16 grid for spacing",
+        "symmetry": "frequent use of mirror symmetry and triangulated alignment"
+      },
+      "replicationInstructions": {
+        "inspiration": "draw from the bold geometric shapes, clean negative space, and distinctive primary color use; avoid copying the literal forms",
+        "designTips": [
+          "use simplified geometric shapes (rectangles, triangles, circles) with flat fills",
+          "layer elements with subtle angular overlaps to simulate depth",
+          "avoid strokes—use color blocking instead to define form",
+          "focus on contrast and color harmony to convey meaning",
+          "use consistent visual weight for all elements"
+        ]
+      }
+    }
+  }
+  

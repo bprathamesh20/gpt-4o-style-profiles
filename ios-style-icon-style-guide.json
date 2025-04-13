@@ -1,0 +1,46 @@
+{
+    "icon-kit": {
+      "name": "iOS Squircle Style",
+      "description": "A clean, modern icon style characterized by squircle containers, vibrant colors, subtle gradients, and simplified 3D glyphs with minimal outlining.",
+      "inspiration_note": "Use this profile as a guide for the aesthetic, feel, and technical execution. Do not replicate the specific subject matter or designs of the example icons 1:1. Adapt the style elements to new, unique icon concepts.",
+      "container": {
+        "shape": "Squircle",
+        "description": "All icons are presented within a uniform squircle shape (a square with continuously rounded corners, distinct from a standard rounded rectangle).",
+        "corner_radius": "Significant and continuous, consistent across all icons.",
+        "background": "Typically filled with a solid color or a simple gradient (linear or radial), providing a distinct backdrop for the foreground glyph. Some icons may use a white or light neutral background."
+      },
+      "glyph": {
+        "style": "Simplified, clean, and easily recognizable, with 3D depth.",
+        "fill_style": "Primarily filled shapes with 3D-style shading and lighting effects to simulate form and volume.",
+        "outlines": "Minimal use of outlines. Outlines, if present, are typically used for internal details within the glyph, not to outline the main shape against the background.",
+        "line_weight": "Thin and consistent when strokes are used (e.g., for internal details or representations like graphs/soundwaves).",
+        "stroke_cap": "Default (likely Butt or Round, not overly stylized).",
+        "stroke_join": "Default (likely Miter or Round, avoid sharp Bevels unless stylistically required by the specific glyph).",
+        "complexity": "Low to Medium. Avoid overly intricate details; focus on core shapes and concepts.",
+        "perspective": "Primarily head-on, but with simulated depth through lighting, shadow, and volume to create a soft 3D appearance."
+      },
+      "color": {
+        "palette": "Bright, often vibrant and saturated colors. Includes use of white, grays, and black for glyphs, backgrounds, and details.",
+        "gradients": "Yes, subtle gradients (linear and radial) are frequently used on both the container background and within the 3D glyphs to enhance depth and realism.",
+        "contrast": "Ensure sufficient contrast between the glyph and the container background for legibility."
+      },
+      "effects": {
+        "shadows": "Subtle, soft drop shadows and inner shadows are used to support the 3D illusion and help elements lift off the background.",
+        "layering": "Simple layering and extrusion effects may be used within glyphs to simulate 3D depth while keeping forms clear and bold."
+      },
+      "custom_modifications": {
+        "3d_glyphs": "All glyphs are presented in a soft 3D style, incorporating consistent lighting direction, shadow placement, and subtle material shading. Elements like notebooks, magic wands, or objects can be extruded slightly and cast soft shadows, while still adhering to clean, playful, and modern iconography."
+      },
+      "replication_instructions": [
+        "Start with the defined squircle container shape.",
+        "Choose a background: either a vibrant solid color, a simple gradient, or a neutral tone like white/light gray.",
+        "Design the core glyph representing the concept using simplified, bold, 3D-styled shapes.",
+        "Avoid heavy outlines for the main glyph shape. Use thin, consistent strokes only for necessary internal details.",
+        "Apply colors from a bright, modern palette, ensuring good contrast.",
+        "Use lighting, shading, and gradients within the glyph to simulate 3D volume and form.",
+        "Apply soft shadows or subtle layering to lift elements and reinforce depth.",
+        "Ensure the final icon feels clean, modern, legible, and visually consistent with the iOS squircle aesthetic, even when using 3D styling."
+      ]
+    }
+  }
+  
